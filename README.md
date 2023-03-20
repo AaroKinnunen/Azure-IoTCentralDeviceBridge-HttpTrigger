@@ -1,4 +1,4 @@
-# AzureHttpTrigger
+# IoT Central Device Bridge -HttpTrigger
  Custom Javascript code for the IoT Central device bridge connecting Digita ThingPark and IoT Central application
  The code includes also a decoder function for Carlo Gavazzi UWPA connected to ThingPark.
  
